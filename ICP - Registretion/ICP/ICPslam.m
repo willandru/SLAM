@@ -5,8 +5,6 @@ imagen = imread('Real_cartographer.pgm');
 
 % Muestra la imagen
 imshow(imagen);
-
-% Puedes agregar un título opcional
 title('Imagen PGM');
 
 
